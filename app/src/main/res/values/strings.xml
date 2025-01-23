@@ -1,0 +1,6 @@
+<!-- app/src/main/res/values/strings.xml -->
+<resources>
+    <string name="app_name">Waktu Solat</string>
+    <string name="widget_title">Waktu Solat Widget</string>
+    <string name="compass_title">Qibla Compass</string>
+</resources>

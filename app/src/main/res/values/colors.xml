@@ -1,0 +1,5 @@
+<!-- app/src/main/res/values/colors.xml -->
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
